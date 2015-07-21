@@ -1,0 +1,3 @@
+# Data Science Coursera
+## Initial setup
+Just set up a repo for data science track on Coursera. Nothing here to see yet...
